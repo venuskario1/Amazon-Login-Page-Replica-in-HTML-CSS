@@ -1,0 +1,100 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    font-weight: bold;
+}
+
+#signin {
+    margin-top: 30px;
+    padding-top: 25px;
+    font-size: xx-large;
+    margin: auto;
+}
+
+.form-check {
+    margin-top: 20px;
+}
+
+button {
+    width: 100%;
+    border-width: 1px;
+    border-color: darkorange;
+}
+
+#new-to-amazon {
+    color: grey;
+    text-align: center;
+    margin: auto;
+}
+
+#Button1 {
+    background-image: linear-gradient(rgb(255, 202, 103), darkorange);
+    color: black;
+}
+
+#Button2 {
+    background-image: linear-gradient(lightgrey, rgb(175, 175, 175));
+    color: black;
+    margin-top: 20px;
+}
+
+#logo {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#form {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+}
+
+footer{
+    background-image: linear-gradient(gray, white);
+    padding-top: 25px;
+    margin: 35px;
+}
+
+#footer-links {
+    margin: auto;
+    color: blue;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    display: inline;
+    margin: 15px;    
+}
+
+footer > p {
+    text-align: center;
+}
+
+.forgot-pw {
+    color: blue;
+    padding-left: 220px;
+}
+
+.deets {
+    color: blue;
+    padding-left: 10px;
+}
